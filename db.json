@@ -1,0 +1,63 @@
+{
+    "users": [{
+            "id": 1,
+            "name": "Dina",
+            "username": "Bret",
+            "e-mail": "dina_bret@mail.ru"
+        },
+        {
+            "id": 2,
+            "name": "Aylin",
+            "username": "Asanova",
+            "e-mail": "Aylin_bret@mail.ru"
+        },
+        {
+            "id": 3,
+            "name": "Alina",
+            "username": "Ibraimova",
+            "e-mail": "Alin_bret@mail.ru"
+        },
+        {
+            "id": 4,
+            "name": "Ali",
+            "username": "Yusuf",
+            "e-mail": "dina_bret@mail.ru"
+        },
+        {
+            "id": 5,
+            "name": "Adilet",
+            "username": "Kanybekov",
+            "e-mail": "dina_bret@mail.ru"
+        },
+        {
+            "id": 6,
+            "name": "Dina",
+            "username": "Bret",
+            "e-mail": "dina_bret@mail.ru"
+        },
+        {
+            "id": 7,
+            "name": "Dina",
+            "username": "Bret",
+            "e-mail": "dina_bret@mail.ru"
+        },
+        {
+            "id": 8,
+            "name": "Dina",
+            "username": "Bret",
+            "e-mail": "dina_bret@mail.ru"
+        },
+        {
+            "id": 9,
+            "name": "Erbol",
+            "username": "",
+            "e-mail": "dina_bret@mail.ru"
+        },
+        {
+            "id": 10,
+            "name": "Bek",
+            "username": "Bret",
+            "e-mail": "dina_bret@mail.ru"
+        }
+    ]
+}
